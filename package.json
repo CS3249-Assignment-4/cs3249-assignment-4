@@ -12,7 +12,7 @@
     "csvtojson": "^2.0.10",
     "dygraphs": "^2.1.0",
     "fusioncharts": "^3.15.1-sr.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jscharting": "^2.9.0-8",
     "meteor-node-stubs": "^1.0.0",
     "moment": "^2.24.0",
