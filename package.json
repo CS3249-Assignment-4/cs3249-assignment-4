@@ -15,7 +15,7 @@
     "jquery": "^3.4.1",
     "jscharting": "^2.9.0-8",
     "meteor-node-stubs": "^1.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "papaparse": "^5.2.0",
     "pondjs": "^0.9.0",
     "react": "^16.13.1",
